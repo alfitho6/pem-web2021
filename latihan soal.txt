@@ -1,0 +1,10 @@
+1).Client Side Scripting adalah jenis script yang pengolahannya dilakukan di sisi client. pengolahan disini berarti di terjemahkan / interpreted yang memiliki tugas untuk menterjemahkan script jenis ini disisi client adalah web browser.
+
+
+
+2).HTML 5 menggunakan database SQL web untuk menyimpan cache sementara. Di HTML, hanya cache browser yang bisa dimanfaatkan untuk tujuan ini. Di HTML 5, JavaScript bisa berjalan di web browser, sementara versi lama HTML hanya memungkinkan JavaScript berjalan di thread antarmuka web browser. HTML 5 tidak berbasis pada SGML.
+
+
+
+3). ingin membuat website tampilan e-commerce
+
